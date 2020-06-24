@@ -2,7 +2,7 @@
 
 steamPage:
     # This is the short text appearing on the steam page
-    shortText: shapez.io je hra o stavbě továren pro automatizaci výroby a kombinování čím dál složitějších tvarů na nekonečné mapě.
+    shortText: shapez.io je hra o stavbě továren a automatizaci výroby a kombinování čím dál složitějších tvarů na nekonečné mapě.
 
     # This is the long description for the steam page - It is contained here so you can help to translate it, and I will regulary update the store page.
     # NOTICE:
@@ -11,7 +11,7 @@ steamPage:
     longText: >-
         [img]{STEAM_APP_IMAGE}/extras/store_page_gif.gif[/img]
 
-        shapez.io je hra o stavbě továren pro automatizaci výroby a kombinování tvarů. Poskytněte vyžadované, stále složitější tvary, aby jste postoupili ve hře dále, a odemkněte vylepšení pro zrychlení vaší továrny.
+        shapez.io je hra o stavbě továren a automatizaci výroby a kombinování tvarů. Poskytněte vyžadované, stále složitější tvary, aby jste postoupili ve hře dále, a odemkněte vylepšení pro zrychlení vaší továrny.
 
         Protože poptávka postupně roste, musíte svou továrnu rozšiřovat tak, aby vyhověla potřebám - Nové zdroje, najdete na [b]nekonečné mapě[/b]!
 
@@ -39,7 +39,7 @@ steamPage:
             [*] Mód s příběhem, kde stavba budov stojí tvary
             [*] Více úrovní a budov (exkluzivní pro plnou verzi)
             [*] Různé mapy a zábrany na mapě
-            [*] Konfigurace generátoru map (úprava počtu a velikosti nálezišť, seed map, a další)
+            [*] Konfigurace generátoru map (úprava počtu a velikosti nálezišť, seedu map, a další)
             [*] Více tvarů
             [*] Další zlepšení výkonu (I když hra již běží docela dobře!)
             [*] Režim pro barvoslepé
@@ -57,7 +57,7 @@ global:
 
     # The suffix for large numbers, e.g. 1.3k, 400.2M, etc.
     suffix:
-        thousands: k
+        thousands: t
         millions: M
         billions: B
         trillions: T
@@ -95,7 +95,7 @@ demoBanners:
     # This is the "advertisement" shown in the main menu and other various places
     title: Demo verze
     intro: >-
-        Získejte plnou verzi pro odemknutí všech funkcí!
+        Kupte si plnou verzi pro odemknutí všech funkcí!
 
 mainMenu:
     play: Hrát
