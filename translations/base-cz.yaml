@@ -100,7 +100,7 @@ demoBanners:
 mainMenu:
     play: Hrát
     changelog: Změny
-    importSavegame: Importovat
+    importSavegame: Importovat uloženou hru
     openSourceHint: Tato hra je open source!
     discordLink: Oficiální Discord Server
     helpTranslate: Pomozte přeložit hru!
